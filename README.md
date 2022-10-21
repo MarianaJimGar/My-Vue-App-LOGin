@@ -8,7 +8,7 @@ LOGIN
 ![image](https://user-images.githubusercontent.com/98183323/197132815-21d07ac0-9a65-4810-9630-4363a841cf56.png)
 
 HOME
-![image](https://user-images.githubusercontent.com/98183323/197133008-efd35caf-cce3-4c6f-8819-35762fae6069.png)
+![image](https://user-images.githubusercontent.com/98183323/197133291-a2443649-0a1f-45cc-bef8-0415c818e623.png)
 
 ABOUT
 ![image](https://user-images.githubusercontent.com/98183323/197133056-06f9b103-1b14-4d21-ae41-80511b5452b4.png)
